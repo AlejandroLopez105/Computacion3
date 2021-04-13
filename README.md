@@ -2,5 +2,5 @@
 @autor: Miguel Alejandro López Olvera
 @contacto: alexander_105@comunidad.unam.mx
 
-En este repositorio se encuentran todos los trabajos y proyectos de la materia de computación 3
-ENES Juriquilla UNAM 
+This repository contains all the papers and projects of the Computer Science 3 course
+ENES Juriquilla UNAM
